@@ -1,9 +1,9 @@
 ## Table of Contents
 ====================
 * [1. Introduction](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#1-introduction)
-* [2. Project Objectives](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#2-projectobjectives)
+* [2. Project Objectives](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#2-project-objectives)
 * [3. Methodology](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#3-methodology)
-* [4. Metrics to measure model performance](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#4-metricstomeasuremodelperformance)
+* [4. Metrics to measure model performance](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#4-metrics-to-measure-model-performance)
 * [9 Visuals from the app](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#9-visuals-from-the-app)
 * [10 Licensing and Acknowledgements](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#10-licensing-and-acknowledgements)
 * [11 Package Requirements and Operating Instructions](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#11-package-requirements-and-operating-instructions)
