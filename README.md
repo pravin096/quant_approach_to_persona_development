@@ -4,7 +4,7 @@
 * [2. Project Objectives](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#2-project-objectives)
 * [3. Methodology](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#3-methodology)
 * [4. Metrics to measure model performance](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#4-metrics-to-measure-model-performance)
-* [5 Results](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#9-Results)
+* [5 Results](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#9-results)
 * [6 Licensing and Acknowledgements](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#6-licensing-and-acknowledgements)
 * [7 Package Requirements and Operating Instructions](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#7-package-requirements-and-operating-instructions)
     
