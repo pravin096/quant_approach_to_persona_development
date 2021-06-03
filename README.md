@@ -4,9 +4,9 @@
 * [2. Project Objectives](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#2-project-objectives)
 * [3. Methodology](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#3-methodology)
 * [4. Metrics to measure model performance](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#4-metrics-to-measure-model-performance)
-* [9 Visuals from the app](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#9-visuals-from-the-app)
-* [10 Licensing and Acknowledgements](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#10-licensing-and-acknowledgements)
-* [11 Package Requirements and Operating Instructions](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#11-package-requirements-and-operating-instructions)
+* [5 Results](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#9-Results)
+* [6 Licensing and Acknowledgements](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#6-licensing-and-acknowledgements)
+* [7 Package Requirements and Operating Instructions](https://github.com/pravin096/quant_approach_to_persona_development/blob/main/README.md#7-package-requirements-and-operating-instructions)
     
 
 ## 1. Introduction
@@ -35,33 +35,14 @@ III.	How do these personas relate to jobsat, both, practically and/or statistica
 <img alt="Silhouette score elbow for K Means clusetring" src="static/SilhouetteScoreElbowforKMeansClustering" title = "Silhouette Score Elbow Plot"/>     
 
 
-## 9 Visuals from the app
+## 5 Results
+The analysis findings are documented in the PDF document - <strong><em>Creating Personas of DS Professionals</em></strong>
 
-<details>
- <summary> <b> Disaster Response API - Main Screen </summary>
- <img alt="Disaster Response API - Main Screen" src="web_app/app/static/DisRespAPI_MainScreen.png">
- </details>
- 
- <details>
- <summary> <b> Sample Message 1 - Classification Result </summary>
- <img alt="Sample Message 1 - Classification Result 1 of 2" src="web_app/app/static/SampMsg1_ModelOutput-1.png">
- <img alt="Sample Message 1 - Classification Result 2 of 2" src="web_app/app/static/SampMsg1_ModelOutput-2.png">
-</details>
- 
-<details>
-<summary> <b> Training Dataset Overview </summary>
- <img alt="Train Dataset Overview 1 of 2" src="web_app/app/static/TrainDSOverview-1.png">
- <img alt="Train Dataset Overview 2 of 2" src="web_app/app/static/TrainDSOverview-2.png">
-</details>
-
-## 9 Results
-
-
-## 10 Licensing and Acknowledgements
+## 6 Licensing and Acknowledgements
 Thanks to Stackoverflow for providing dataset for this project 
 
-## 11 Package Requirements and Operating Instructions
-### 11.1 Model Development component (DevelopModel.ipynb)
+## 7 Package Requirements and Operating Instructions
+### 7.1 Model Development component (DevelopModel.ipynb)
 
 #### <br> Packages Requirements:
 |No.|Package Name|Version #|
@@ -85,7 +66,7 @@ Operating Instructions:
 - create a <strong><em>us_community_df.csv</em> </strong> dataset in the <strong><em>data </em> </strong> folder
 
 
-### 11.2 Analyze Roles component (AnalyzeRoles.ipynb)
+### 7.2 Analyze Roles component (AnalyzeRoles.ipynb)
 
 
 Package requirements:
