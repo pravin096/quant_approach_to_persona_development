@@ -36,7 +36,7 @@ III.	How do these personas relate to jobsat, both, practically and/or statistica
 
 
 ## 5 Results
-The analysis findings are documented in the PDF document - <strong><em>Creating Personas of DS Professionals</em></strong>
+The analysis findings are documented in the blog post [here](https://medium.com/@pravinsubs/understanding-the-data-science-professional-a-data-driven-approach-to-creating-personas-of-data-5e42c1440f34)
 
 ## 6 Licensing and Acknowledgements
 Thanks to Stackoverflow for providing dataset for this project 
